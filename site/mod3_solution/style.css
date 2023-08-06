@@ -1,0 +1,23 @@
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.navbar {
+  background-color: #999999;
+}
+
+h1 {
+  margin-bottom: 1em;
+}
+
+#chicken,
+#beef,
+#sushi {
+  background-color: #999999;
+  padding: 10px;
+}
+
+p {
+  text-align: justify;
+}
